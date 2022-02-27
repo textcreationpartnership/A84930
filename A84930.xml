@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A friendly letter to all young men who are desirous to live Godly lives, and are true members of the Church of England. Imprimatur Octob. the 5th. 1688. R.M.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84930</idno>
+            <idno type="STC">Wing F2222</idno>
+            <idno type="STC">ESTC R226182</idno>
+            <idno type="EEBO-CITATION">99895656</idno>
+            <idno type="PROQUEST">99895656</idno>
+            <idno type="VID">153232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153232)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2355:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A friendly letter to all young men who are desirous to live Godly lives, and are true members of the Church of England. Imprimatur Octob. the 5th. 1688. R.M.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Dan. Brown, at the Black Swan and Bible without Temple-Bar,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Discipline --  Early works to 1800.</term>
+               <term>Young men --  Conduct of life --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153232:1"/>
+            <head>A Friendly Letter TO ALL YOUNG MEN Who are deſirous to live Godly Lives, And are True MEMBERS OF THE <hi>Church of England.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng" subtype="imprimatur">
+               <body>
+                  <p>Imprimatur</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Octob.</hi> the <hi>5th</hi> 1688. </date>
+                     </dateline>
+                     <signed>R. M.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>DEarly</hi> beloved Brethren and Fellow Members of the Church of <hi>England,</hi> it is to you that I now Write as a Friend, and a Brother, for I am ſure we ſhould be ſo one to another, and our <hi>Saviour</hi> maketh it the Great viſible Badg of Chriſtianity. For he ſaith, <hi>By this ſhall all Men know that ye are my Diſciples, if ye have Love one for another.</hi>
+            </p>
+            <pb n="2" facs="tcp:153232:2"/>
+            <p> Now to love the Lord our God with all our Hearts, and our Neighbours as our ſelves, being the true Foundation of Chriſtianity, let us Encourage one another in the practice of the Duty juſt now mentioned, and let us not refuſe the hard<g ref="char:EOLhyphen"/>eſt, and moſt ſevere Rules, that are preſcribed in Order to it. Though poſſibly at firſt Tryal they may be hard, yet cuſtome will make them eaſie, for thus ſaith Chriſt, <hi>My Yoke is eaſie, and my Burthen is light,</hi>
+            </p>
+            <p>And that you ſhould not only begin, but hold alſo out to the End, you muſt not only do this your ſelves, but En<g ref="char:EOLhyphen"/>courage one another to do the ſame; and tho' you have ſeen by ſad Experience that ſome have begun in the Spirit, and ended in the Fleſh: Yet let not this Diſcourage you, but take your <hi>Saviours</hi> Advice, St. <hi>Mat.</hi> 10. 22. <hi>For he that indureth to the End ſhall be ſaved.</hi> For he tels us in St. <hi>Luke</hi> 9. 62. <hi>No man having ſet his Hand to the Plow, and looking back is fit for the Kingdom of God,</hi> Therefore as ye have begun, endeavour to go on, from Virtue to Virtue; and you that have found the comfort of leading a good Life, the Joy, and Pleaſure of a good Conſcience, the Advantage and Benefit of frequenting the Sacrament, the Comfort and Satisfaction of frequenting the Publick Service of the Church; that now ſee the Odiouſ<g ref="char:EOLhyphen"/>neſs of thoſe Sins that others dote upon, the Deformity of thoſe Vices others wallow in: You that ſee the Beauty of that Virtue that others ſcorn, who taſte the Charms of that Grace that others Laugh at, ſeeing the reaſonableneſs of <hi>Chriſts</hi> Precepts, which others count an intollerable Yoke; and have ſome ſenſe of another World, while Thouſands live, as if there were none. In a Word, you that ſee the Neceſſity of Holineſs, while others make a Mock at it: O! let not theſe Comforts be hid within your Breaſts, but know<g ref="char:EOLhyphen"/>ing your ſelves Converted, ſtrengthen your Brethren as it is Commanded, St. <hi>Luke</hi> 22. 32. And that you ſhould all ſincerely ſet about this Duty, is the Chief, and only deſign of
+<pb n="3" facs="tcp:153232:2"/> this Letter: And ſince it is Charity to direct the Blind in his way, or if we ſee our Neighbour in danger of being Robb'd, or his Houſe in danger of being Burnt, to run and help him is Charity. Then certainly it is greater Charity to Inſtruct the Ignorant, by ſhewing them the right way to Salvation. And therefore if you ſee your Brother, or Fellow Servant in danger of being ruined by keeping ill Company, or their Souls in danger of Hell Fire, by Propha<g ref="char:EOLhyphen"/>ning God's Sabbath, Neglecting his Laws, and forſaking his Commandments; to help ſuch by Godly Advice, and good Example muſt be a far greater deed of Charity, and your Duty too: For thus ſaith the Lord, <hi>Levit.</hi> 19. 17. <hi>Thou ſhalt not hate thy Brother in thy Heart: Thou ſhalt in any wiſe Rebuke thy Neighbour, and not ſuffer Sin upon him.</hi> Be not guilty of this great Crime, upon what pretence ſoever, <hi>But Exhort one another daily, while it is called to Day, leaſt any of you be hardned through the Deceitfulneſs of Sin,</hi> as Heb. 3. 13. <hi>Knowing that he which Converteth a Sinner from the Errours of his ways, ſhall ſave a Soul from Death, and ſhall hide a mul<g ref="char:EOLhyphen"/>titude of Sins,</hi> Epiſt. of St, James 5. 20. and that you may do this regularly and in order, take our Saviours Advice, <hi>Mat.</hi> 7. 5. <hi>Firſt caſt the Beam out of thine own Eye, then thou mayeſt ſee clearly to caſt out the Mote which is in thy Brothers Eye. And if a man be overtaken in a fault, reſtore him in the Spirit of meekneſs,</hi> Gal. 6. 1. and build him up again in the Lord. All the Texts almoſt of Holy Scripture point to this Duty, either by Exhorting, or Commanding us to ſet about this neceſſary Work: Firſt, To lead Good Lives our ſelves, and then to Encourage others to do the ſame. It is not Controverſie that I exhort you to, nor to meddle much with thoſe of another Perſwaſion, for that is the Mi<g ref="char:EOLhyphen"/>niſters Work, but this is your one thing needful, to med<g ref="char:EOLhyphen"/>dle with thoſe that own the ſame Church, and Profeſs the ſame Faith, and yet Act contrary to it, in their Lives and
+<pb n="4" facs="tcp:153232:3"/> Converſations. Put theſe in mind of their Baptiſmal Vow, how they then Promis'd <hi>to Renounce the World, the Fleſh, and the Devil,</hi> and yet live within the Embraces of them all; that they dare blame others for their unbelief, while they live like Atheiſts themſelves; that they dare condemn others for their ſeparation from the Church when their own Lives, and Converſations are quite contrary to the worthy Doctrine thereof: That they dare Reproach others for want of ſeriouſneſs, when they live looſe Lives themſelves, and conſequently are ſo far from remembring their Creator in the Days of their Youth, that they live in almoſt all man<g ref="char:EOLhyphen"/>ner of ſins.</p>
+            <p>But intreat them to take the wiſe Mans Counſel <hi>Eccleſ.</hi> 5. &amp; 7. <hi>That they make no tarrying to turn to the Lord God, and put it not off from Day to Day;</hi> Put them in mind of the great Benefit of a Holy Life, and early Piety, and what a Pleaſure it will be, when they come to die, to look back upon a well ſpent Life; and you that have already taſted thoſe Joys, which are the products of a good Conſcience, and the Pleaſures of a good Life and Godly Converſation, be not afraid to encourage others to do the ſame; but ſince you ſee, that wicked Men take ſuch pains to ſerve their Luſts, to pleaſe their appetites, and gratifie their Senſes, why ſhould not you take ſome pains alſo to ſerve your God, to advance his Glory, yea, and to Encourage others likewiſe to do the ſame; and if there be but two in a Street that intend really to ſerve God, to frequent the Sacrament, and Prayers of the Church, let them make it their buſineſs to Encourage two more to do the ſame, and let your Prayers be frequent and ſervent to God, that he would increaſe the Number of True Be<g ref="char:EOLhyphen"/>lievers, and that it would pleaſe him to bring into the way of Truth all ſuch as have Erred and are Deceived.</p>
+            <p>O Brethren, if you would have God Honoured, and his Laws obeyed, ſet about this work, and let men ſee, you are
+<pb n="5" facs="tcp:153232:3"/> of the beſt Religion, by your living or the beſt Lives, and as our Reverend Divines are not wanting in Publick, do you take care to do it in Private, and eſpecially to thoſe with whom you have free liberty to Converſe, according to St. <hi>Pauls</hi> Advice, <hi>Theſſ.</hi> 5. 14, 15. <hi>Warning them that are unruly, Comforting the Feeble minded, ſupporting the Weak, patient towards all Men; ſeeing that none render Evil for Evil to any man, but ever follow that which is Good, both among your ſelves, and to all Men,</hi> and if you are Laugh'd at for your pains; Conſider that <hi>Bleſled are they, who ſhall be Reviled for Chriſts ſake;</hi> you may poſſibly caſt your Pearl before Swine, but let them know that mock at Piety, what a ſad after reckoning they ſhall have, when the judgment ſhall be ſet, and the Book opened, <hi>5th.</hi> of <hi>Wiſdom, Then</hi> ſays <hi>Solomon, ſhall the Righteous Man ſtand in great boldneſs before the Face of ſuch as have afflicted him, and made no account of his Labours,</hi> when they ſee it, they ſhall be troubled with a terrible Fear, and ſhall be amazed at the ſtrangneſs of this Salvation, ſo far beyond all that they looked for; then they Repenting, and Groaning for anguiſh ſhall ſay within themſelves, <hi>This is he whom we have had ſometimes in Deriſion;</hi> and a Proverb of Reproach; <hi>we Fools counted his Life madneſs, and his End to be without honour,</hi> how is he Numbred among the Chil<g ref="char:EOLhyphen"/>dren of God, and his Lot is among the Saints. Then in Sorrow and Grief of Heart ſhall they Cry out upon them<g ref="char:EOLhyphen"/>ſelves; <hi>What hath Pride profited us? Or what good hath Riches with our vaunting brought us?</hi> All theſe things are vaniſh'd like a ſhadow, and as a Poſt that paſſeth by; but the Righ<g ref="char:EOLhyphen"/>teous live for evermore, their reward alſo is with the moſt Higheſt. Intreat them therefore, that they ſtand in aw, and Sin not, <hi>that they Die unto Sin, and live unto Righteouſneſs,</hi> beſeeching them to Conſecrate the Morning, and the youth of their Age to God, making them ſenſible of the Benefit of Reigning over their ſinful Deſires, and Paſſions, beg of
+<pb n="6" facs="tcp:153232:4"/> them to curb their Anger, and Refrain their Luſts, Mode<g ref="char:EOLhyphen"/>rate their Joys, and watch over their ſenſual Delights, to keep themſelves within bounds, to Conquer their hatred to<g ref="char:EOLhyphen"/>wards their fellow Chriſtians, to grow Eminent in the love of God, and to advance in Charity to their Neighbours, to kill their Covetouſneſs, and ſurmount the Hills of Pride, to keep Holy God's Sabbath, and to obey his Laws. Tell them that without doing theſe things, they ſerve not God, but themſelves, and are ſo far from being Subjects to him, that they make themſelves profeſſed Servants of the Devil. Lay open to them, what a Glorious Benefit it is to be a Sub<g ref="char:EOLhyphen"/>ject to the King of Heaven; and what a Gracious Privi<g ref="char:EOLhyphen"/>ledge to ſubmit to his Laws, and become his Servant, that this will make them Govern their inordinate Paſſions and Luſts, for all theſe fleſhly Enemies by God's Grace and Aſſiſtance, ſhall be put in Subjection under their Feet: That he who can do this is a King indeed, for it hath been ac<g ref="char:EOLhyphen"/>knowledg'd by all Wife Men in all Ages, that he that Con<g ref="char:EOLhyphen"/>quers theſe Rebels is a greater Commander, than he that lays whole Cities and Countries waſte, for in ſubduing theſe he Acts but according to his Brutiſh Appetite: But in Con<g ref="char:EOLhyphen"/>quering theſe inordinate deſires, he overcomes himſelf, and in that conſiſts the higheſt perfection of Virtue, O tell them therefore that deſire either to be happy in this World, or in the World to come; that they <hi>Firſt ſeek the Kingdom of God and his Righteouſneſs, and then all other things ſhall be ad<g ref="char:EOLhyphen"/>ded unto them.</hi> Exhorting, that they think it not enough to give him the ſleepieſt hours of the Day, while they be<g ref="char:EOLhyphen"/>ſtow the lively upon the World, for to ſin as long as they can, and then to turn to God, is to play with Religion. Firſt to ſecure our Temporal Intereſt, and then to think of making ſure of Everlaſting Life, is to imagine that God and Death will forbear us till our Old Age, although we have given our Youth and tender Years unto the Devil: O
+<pb n="7" facs="tcp:153232:4"/> deſire them not to flatter themſelves with a fancy that they may go on in Wickedneſs, as well as their Neighbours, or the reſt of their Companions, and yet live to Repent at laſt; for how many alas have been cut off in this Childiſh ſtupidi<g ref="char:EOLhyphen"/>ty, and they know not with how ſmall a Thread the Sword of Juſtice hangs over their own Heads, for though God is Merciful, yet he is juſt, and hath a Trumpet of War to af<g ref="char:EOLhyphen"/>fright the ſinner from his Wickedneſs, as well as a Scepter of Love to encourage and allure the Good: He hath Ma<g ref="char:EOLhyphen"/>gazines of Vengeance, Store-houſes of Curſes, and can ruin a ſinful Creature a Thouſand ways; and yet how Merry not<g ref="char:EOLhyphen"/>withſtanding all this is the Drunkard over his Cups, and how boldly doth the Swearer ſend up his dreadful Oaths to Hea<g ref="char:EOLhyphen"/>ven, and all this becauſe God is merciful, and long ſuffering. But O let them know, what a terrible abuſe it is, to let God's Mercy provoke them to Wantonneſs, and his Patience to cauſe Sin to live in their Souls; that his Goodneſs ſhould tempt them to be fooliſh, and his Compaſſion tempt them to affront his Glory, that his kindneſs ſhould prove their Bane, and that the Meat he gives them ſhould increaſe their Corruption, that his Corn and Wine, ſhould be turn'd into Contempt of his Majeſty, and that they ſhould make uſe of the Eaſe he gives them to fight againſt his Laws, that the Plen<g ref="char:EOLhyphen"/>ty they enjoy by his Providence, ſhould Encourage them to make War with him, from whence all their Plenty flows: O! What monſtrous Abuſes are here; if their Children ſhould ſerve them ſo, what Plagues would they think too big for them? Or ask them if their fellow Servants ſhould recompence their kindneſſes thus, would they not hate the very ſight of them; and yet muſt God put up Affronts which they will not? Muſt he be contented under Scorns and Abuſes which they will not take? Bid them conſider how he waits for their Repentance, and perſwades them to it; <hi>Turn ye, turn ye,</hi> ſaith the Lord your God, <hi>why will ye dye?</hi> And yet they
+<pb n="8" facs="tcp:153232:5" rendition="simple:additions"/> fruſtrate his Clemency; he is patient, and would have them prevent the blow, and yet they are ready to pluck it down on their own Heads. O ask them how they dare turn Grace into Wantonneſs, and yet expect to be Applaud<g ref="char:EOLhyphen"/>ed at laſt, with a <hi>well done thou Good and Faithful Servant:</hi> Have they not heard of that unprofitable Servant, that was delivered to the Tormentors, till he ſhould pay even the uttermoſt Farthing; and is not this their Caſe, who make light of God's Anger, becauſe he doth not pour it out up<g ref="char:EOLhyphen"/>on them ſo ſoon as their Sins deſerve? To ſuch the Apoſtle ſpeaks thus, <hi>Rom.</hi> 2. 1. <hi>Therefore art thou inexcuſable O Man whoſoever thou art, that deſpiſeſt the Richneſs of his Goodneſs, and forbearance and long ſuffering, not knowing that the Good<g ref="char:EOLhyphen"/>neſs of God leads to Repentance. Therefore my beloved Brethren be ye Stedfaſt, <g ref="char:V">Ʋ</g>nmoveable, always abounding in the Work of the Lord, foraſmuch as ye know that your Labour is not in vain in the Lord,</hi> 1 Cor. 15. 58.</p>
+            <p>I ſhall Conclude all with the Words of St. <hi>Chryſoſtome, To know the Art of Almes, is Greater than to be Crowned with the Diadem of Kings; and yet to Convert one Soul, is greater than to pour out ten thouſand Talents into the Basket of the Poor.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Dan. Brown, <hi>at the</hi> Black Swan <hi>and</hi> Bible <hi>with<g ref="char:EOLhyphen"/>out</hi> Temple-Bar. 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
